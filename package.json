@@ -1,0 +1,23 @@
+{
+	"name": "MedicalManagers",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"start": "node ./www"
+	},
+	"dependencies": {
+		"body-parser": "*",
+		"cookie-parser": "*",
+		"path": "*",
+		"express-session": "*",
+		"express": "*",
+		"morgan": "*",
+		"serve-favicon": "*",
+		"express-subdomain": "*",
+		"vhost": "*",
+		"mongodb": "*",
+		"http": "*",
+		"request": "*",
+		"debug": "*"
+	}
+}
